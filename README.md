@@ -37,4 +37,4 @@ bot:my name is bot. what is your name?
 Anushka Singh
 
 #screenshot
-Screenshot_20260707_072205_Chrome.jpg
+![Chatbot Screenshot](Screenshot_20260707_072205_Chrome.jpg)
