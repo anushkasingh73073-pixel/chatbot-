@@ -30,8 +30,8 @@ Bot: I am fine, what about you?
 User: Fine  
 Bot: Nice
 
-user: what is your name?
-bot:my name is bot. what is your name?
+User: What is your name? 
+Bot: My name is bot. What is your name?
 
 ## Author
 Anushka Singh
