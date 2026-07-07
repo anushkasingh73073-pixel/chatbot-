@@ -31,4 +31,4 @@ while True:
 
     # Default
     else:
-        print("Bot: Sorry, I don't understand.") 
+        print("Bot: Sorry, I don't understand.")
